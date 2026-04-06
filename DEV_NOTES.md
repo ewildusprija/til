@@ -32,3 +32,6 @@ Personal development log — notes, findings, and ongoing work.
 - Added basic usage examples to README
 - Updated dependencies to latest stable versions
 - Fixed off-by-one error in loop
+
+## 2026-04-06
+- Updated license year
